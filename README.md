@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working on a [Minecraft Client][website]
 - 🌱 I’m currently learning Python and Java
+- 🌎 My idol is Sun Tzu
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with everything
 - 💬 Ask me about anything!
